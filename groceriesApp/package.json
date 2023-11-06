@@ -1,7 +1,6 @@
 {
   "name": "groceriesapp",
   "homepage": "https://mbishopn.github.io/P1",
-  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
